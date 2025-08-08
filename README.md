@@ -6,13 +6,14 @@ The goal is to build a web scraper that automatically fetches top headlines from
 # Objective #
 To automate data collection by scraping headlines from a public news website using Python libraries.
 
-Tools & Libraries Used
+# Tools & Libraries Used #
+
 Python 
 requests – to make HTTP GET requests
 BeautifulSoup (from bs4) – to parse and extract data from HTML
 open() – to write extracted headlines to a .txt file
 
-How It Works
+# How It Works #
 
 Sends a GET request to the chosen news website.
 
